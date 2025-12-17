@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: antiquewhite;
+}
+nav a {
+    color: rgb(122, 76, 15);
+    text-decoration: none;
+    font-size: 14px;
+    background-color: antiquewhite;
+}
+figcaption {
+    display: inline-block;
+}
+img {
+    width: 80px;
+}
