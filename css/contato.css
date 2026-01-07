@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.header-title {
+    background-color: #2e2e2e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.header-title h1 {
+    margin-bottom: 15x;
+}
+
+nav{
+    background-color: #33373b;
+    padding: 15px;
+}
+
+h2{
+    justify-content: center;
+}

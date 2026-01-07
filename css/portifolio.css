@@ -1,7 +1,29 @@
+
 h1 {
-    color: blueviolet;
+    background-color: #33373b;
+    padding: 20px;
+    
 }
 
 body {
-    background-color: rgb(216, 207, 195);
+    background-color: rgba(112, 108, 108, 0.144);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: #33373b;
+    padding: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    margin-top: 15px;
 }

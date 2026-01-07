@@ -8,7 +8,7 @@
 }
 
 .header-title {
-    background-color: #2c3e50;
+    background-color: #2e2e2e;
     color: white;
     padding: 20px;
     text-align: center;
@@ -19,7 +19,7 @@
 }
 
 nav{
-    background-color: #3d546b;
+    background-color: #33373b;
     padding: 15px;
 }
 
@@ -60,4 +60,25 @@ footer {
     bottom: 0;
     width:100vw;
     margin: 0 auto;
+}
+
+.sobre {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.habilidades {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.formação {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.planejamento {
+     margin-top: 10px;
+     margin-left: 10px;
 }
